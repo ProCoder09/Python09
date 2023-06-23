@@ -5,7 +5,7 @@
 # print(tuple_0)
 # print(dict_0)
 
-str = "Aakarsh loves Shivi"
+str = "Aakarsh love ff"
 bstr = bytes(str,'utf-16')
 print(bstr)
 
